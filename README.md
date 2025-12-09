@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **YOUR_TECH / FRAMEWORK**
 - 💬 Ask me about **JavaScript, React, Node.js**  <!-- change this -->
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **ghilanalireza@gmail.com**
 - ⚡ Fun fact: **I break things until they work**
 
 ---
