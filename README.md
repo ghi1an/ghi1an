@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile views](https://komarev.com/ghpvc/?username=ghi1an&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghi1an&show_icons=true&theme=tokyonight)
