@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ghi1an&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
