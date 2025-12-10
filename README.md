@@ -1,57 +1,21 @@
-
-<!--
-**ghi1an/ghi1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+I’m a Master’s student in Artificial Intelligence with a focused interest in computer vision — how machines perceive, interpret, and reason about visual data. My work explores the development of robust, scalable, and generalizable visual intelligence systems.<br><br>Research Interests:<br><br>👁️ Computer Vision — object detection, segmentation, recognition, scene understanding<br><br>🧠 Deep Learning — CNNs, vision transformers, and representation learning<br><br>📊 Data-Centric AI — preprocessing, augmentation, and performance optimization<br><br>🤖 Applied Vision — autonomous systems, robotics, and real-world perception tasks<br><br>Current Focus:<br><br>🔬 Building and evaluating modern vision architectures<br><br>🧪 Running reproducible experiments and benchmarking models<br><br>📚 Expanding knowledge in visual reasoning and multimodal systems
 
 
-<h1 align="center">Hi 👋, I'm Ghilan</h1>
-<h3 align="center">A passionate developer from IRAN</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghi1an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AlirezaGhilan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ghi1an) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:GhilanAlireza@gmail.com) 
 
-<!-- Profile views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghi1an&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=plastic&logo=CrateDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gh i1an&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gh i1an&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh i1an&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Gh i1an&icon=1&color=12)](https://visitcount.itsvg.in)
 
-### 🚀 About Me
-
-- 🌱 I’m currently learning **MASTER AI**
-- 💬 Ask me about **AI,ML**  <!-- change this -->
-- 📫 How to reach me: **ghilanalireza@gmail.com**
-- ⚡ Fun fact: **I break things until they work**
-
----
-
-### 🛠️ Languages and Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,python,git,github,vscode" />
-</p>
-
----
-
-
-
-### 🔗 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/AlirezaGhilan">LinkedIn</a> •
-  <a href="https://ghilan.ir">Portfolio</a>
-</p>
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=ghi1an&label=Profile%20views&color=0e75b6&style=flat)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
